@@ -1,0 +1,13 @@
+{
+  "name": "skeleton",
+  "version": "0.0.0",
+  "dependencies": {
+    "requirejs"      : "lastest",
+    "requirejs-text" : "lastest",
+    "backbone"       : "lastest",
+    "marionette"     : "lastest",
+    "underscore"     : "lastest",
+    "modernizr"      : "lastest",
+    "jquery"         : "~1.10.2"
+  }
+}
